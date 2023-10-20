@@ -6,7 +6,7 @@ function Header () {
         <header className={styles.header}>
       <Link href='/' className={styles.logo}><span>BLOG</span></Link>
       <nav>
-        <Link href='https://github.com/mehmetpekcan' target='_blank'>About</Link>
+        <Link href='https://github.com/mehmetcelmeli' target='_blank'>About</Link>
       </nav>
         </header>
     )
